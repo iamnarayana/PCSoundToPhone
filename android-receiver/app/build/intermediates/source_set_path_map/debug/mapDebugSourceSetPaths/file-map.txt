@@ -1,0 +1,7 @@
+com.example.pcsoundreceiver.app-pngs-0 /home/and/Projects/PCSoundToPhone/android-receiver/app/build/generated/res/pngs/debug
+com.example.pcsoundreceiver.app-resValues-1 /home/and/Projects/PCSoundToPhone/android-receiver/app/build/generated/res/resValues/debug
+com.example.pcsoundreceiver.app-packageDebugResources-2 /home/and/Projects/PCSoundToPhone/android-receiver/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.pcsoundreceiver.app-packageDebugResources-3 /home/and/Projects/PCSoundToPhone/android-receiver/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.pcsoundreceiver.app-debug-4 /home/and/Projects/PCSoundToPhone/android-receiver/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.pcsoundreceiver.app-debug-5 /home/and/Projects/PCSoundToPhone/android-receiver/app/src/debug/res
+com.example.pcsoundreceiver.app-main-6 /home/and/Projects/PCSoundToPhone/android-receiver/app/src/main/res

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PCSound Receiver</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="status_stopped">Остановлено</string>
+    <string name="status_receiving">Приём звука…</string>
+    <string name="error">Ошибка: %s</string>
+</resources>
