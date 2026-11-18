@@ -1,9 +1,0 @@
-com.example.pcsoundreceiver:string/status_stopped = 0x7f030004
-com.example.pcsoundreceiver:string/start = 0x7f030002
-com.example.pcsoundreceiver:string/app_name = 0x7f030000
-com.example.pcsoundreceiver:layout/activity_main = 0x7f020000
-com.example.pcsoundreceiver:string/status_receiving = 0x7f030003
-com.example.pcsoundreceiver:string/error = 0x7f030001
-com.example.pcsoundreceiver:string/stop = 0x7f030005
-com.example.pcsoundreceiver:id/toggle_button = 0x7f010001
-com.example.pcsoundreceiver:id/status = 0x7f010000

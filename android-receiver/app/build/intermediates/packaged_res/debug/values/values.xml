@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">PCSound Receiver</string>
-    <string name="error">Ошибка: %s</string>
-    <string name="start">Старт</string>
-    <string name="status_receiving">Приём звука…</string>
-    <string name="status_stopped">Остановлено</string>
-    <string name="stop">Стоп</string>
-</resources>

@@ -1,0 +1,28 @@
+# ==========================
+# PCSoundToPhone — .gitignore
+# ==========================
+
+# Скомпилированное приложение
+*.apk
+*.idsig
+
+# Android Studio / Gradle
+android-receiver/build/
+android-receiver/.gradle/
+android-receiver/app/build/
+android-receiver/gradlew
+android-receiver/gradlew.bat
+android-receiver/local.properties
+*.iml
+.idea/
+
+# Opencode (память агента)
+.opencode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.log
+*.tmp
