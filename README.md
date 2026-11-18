@@ -42,6 +42,22 @@ PCSoundToPhone/
 
 ---
 
+## 📥 Скачайте репозиторий
+
+```bash
+git clone https://github.com/iamnarayana/PCSoundToPhone.git
+cd PCSoundToPhone
+```
+
+Или через SSH:
+
+```bash
+git clone git@github.com:iamnarayana/PCSoundToPhone.git
+cd PCSoundToPhone
+```
+
+---
+
 ## 🚀 Быстрый старт
 
 ### Шаг 1. Узнайте IP телефона
@@ -53,20 +69,20 @@ PCSoundToPhone/
 
 #### Linux (Arch)
 ```bash
-cd ~/Projects/PCSoundToPhone/linux-sender
+cd linux-sender
 chmod +x pc-sound-sender.sh
 ./pc-sound-sender.sh 192.168.1.42 9999
 ```
 
 #### Windows (PowerShell)
 ```powershell
-cd \путь\к\PCSoundToPhone\windows-sender
+cd windows-sender
 .\pc-sound-sender.ps1 192.168.1.42 9999
 ```
 
 #### macOS
 ```bash
-cd /путь/к/PCSoundToPhone/macos-sender
+cd macos-sender
 chmod +x pc-sound-sender.sh
 ./pc-sound-sender.sh 192.168.1.42 9999
 ```
